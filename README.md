@@ -1,8 +1,7 @@
 # Inheritence-Design-Lab
 Technologies
-1. Java
-2. XML
-Editor
-Eclipse 
-Author
-Pooja Songadkar
+  1. Java
+  
+ Editor
+ 1. Eclipse
+ 
